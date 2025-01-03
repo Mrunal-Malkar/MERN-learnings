@@ -5,7 +5,7 @@
   "main": "index.js",
   "type": "module",
   "scripts": {
-    "dev":"nodemon src/index.js"
+    "dev": "nodemon src/index.js"
   },
   "keywords": [
     "mern",
@@ -15,6 +15,7 @@
   "author": "Mrunal malkar",
   "license": "ISC",
   "dependencies": {
+    "dotenv": "^16.4.7",
     "node": "^23.5.0"
   },
   "devDependencies": {
